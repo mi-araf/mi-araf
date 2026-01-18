@@ -20,11 +20,13 @@
   ![](https://github-readme-stats.vercel.app/api?username=mi-araf&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=mi-araf&theme=aura_dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mi-araf&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
+</div>
 
   <img height="160em" src="https://grs-akash.vercel.app/api/top-langs/?username=mi-araf&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
   &nbsp; &nbsp;
   <img height="160em" src="https://grs-akash.vercel.app/api?username=mi-araf&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical&rank_icon=percentile" />
-</div>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mushfiq.araf.2024) [![Instagram](https://img.shields.io/badge/Instagram-%23E4305F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tde_araf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mi-araf) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mushfiqaraf5079) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arafmushfiq@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-blue%3Flogo%3DGitHub?logo=github&color=gray)](https://github.com/mi-araf)
