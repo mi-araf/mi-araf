@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with new ideas and developments.
 - 💬 Ask me about any teaching related questions.
 - 📫 How to reach me...?: see Socials below 😉
-- ⚡ Fun fact: ..A 1-second delay in page load time can lead to a 7% drop in conversions.. 
+- ⚡ Fun fact: ..A 1-second delay in page load time can lead to a 7% drop in conversions... 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mi-araf&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
