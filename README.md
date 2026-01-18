@@ -22,7 +22,7 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mi-araf&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   <img height="170em" src="https://grs-akash.vercel.app/api/top-langs/?username=mi-araf&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
-  
+  &nbsp; &nbsp; &nbsp; 
   <img height="170em" src="https://grs-akash.vercel.app/api?username=mi-araf&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical&rank_icon=percentile" />
 </div>
 
