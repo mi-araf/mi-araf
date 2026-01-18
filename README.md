@@ -23,9 +23,11 @@
   
 </div>
 
+<div>
   <img height="160em" src="https://grs-akash.vercel.app/api/top-langs/?username=mi-araf&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
   &nbsp; &nbsp;
   <img height="160em" src="https://grs-akash.vercel.app/api?username=mi-araf&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical&rank_icon=percentile" />
+</div>
 
 
 ## 🌐 Socials:
