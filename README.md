@@ -14,15 +14,16 @@
 - 🤯 Fun fact: A 1-second delay in page load time can lead to a 7% drop in conversions... 
 
   
-## 📊 GitHub Stats ⚡:
-
-<div align="center">
+## 🥇 Winrate:
   
-![](https://nirzak-streak-stats.vercel.app/?user=mi-araf&theme=nightowl&hide_border=false) &nbsp; &nbsp;
-![](https://github-readme-stats.vercel.app/api?username=mi-araf&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false) <br/> <br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mi-araf&theme=nightowl&hide_border=false) 
+
+## 📊 GitHub Stats ⚡:
+![](https://github-readme-stats.vercel.app/api?username=mi-araf&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false) 
+
+## ♟ Expert:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mi-araf&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-</div>
 
 
 ## 🌐 Socials:
