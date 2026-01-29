@@ -1,4 +1,4 @@
-<img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=94&section=header&reversal=true&text=Hello%20there%20%F0%9F%91%8B!&fontSize=35&fontColor=4169E1%20&fontAlign=50&fontAlignY=45&rotate=0&stroke=-&strokeWidth=0&animation=scaleIn&desc=good%20people%20in%20the%20Online%20World&descSize=21&descAlign=50&descAlignY=81&textBg=false&color=gradient"  />
+<img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=94&section=header&reversal=true&text=Hello%20there%20%F0%9F%91%8B!&fontSize=35&fontColor=ADD8E6%20&fontAlign=50&fontAlignY=45&rotate=0&stroke=-&strokeWidth=0&animation=scaleIn&desc=good%20people%20in%20the%20Online%20World&descSize=21&descAlign=50&descAlignY=81&textBg=false&color=gradient"  />
 
 <!-- 
 ## Hello there 👋, good people in the Online World;
