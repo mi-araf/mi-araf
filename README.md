@@ -46,7 +46,7 @@ I’m also learning how to work better in team-based environments by practicing 
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mushfiq.araf.2024) [![Instagram](https://img.shields.io/badge/Instagram-%23E4305F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tde_araf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mi-araf) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mushfiqaraf5079) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arafmushfiq@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-blue%3Flogo%3DGitHub?logo=github&color=gray)](https://github.com/mi-araf)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mushfiq.araf.2024) [![Instagram](https://img.shields.io/badge/Instagram-%23E4305F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tde_araf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mi-araf) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mushfiqaraf5079) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arafmushfiq@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-blue%3Flogo%3DGitHub?logo=github&color=gray)](https://github.com/mi-araf)
 
 
 ### 🏆 Winrates: 
@@ -109,6 +109,7 @@ I’m also learning how to work better in team-based environments by practicing 
 
 <img src="snake-d.svg" >
 
+#### Visitors:
 <div align="center">
   <img src="https://count.getloli.com/@:mi-araf?theme=rule34&padding=7&offset=1&scale=1.1&align=top&pixelated=1&darkmode=auto"  />
 </div>
